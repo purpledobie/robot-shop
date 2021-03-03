@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:dubnium-buster-slim
 
 ENV INSTANA_AUTO_PROFILE true
 
